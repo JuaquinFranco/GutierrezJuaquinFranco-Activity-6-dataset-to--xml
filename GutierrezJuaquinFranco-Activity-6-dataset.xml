@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tobacco-indicators-for-philippines-9 [
+<!ELEMENT tobacco-indicators-for-philippines-9 (Row-0)>
+]>
+
+<tobacco-indicators-for-philippines-9>
+
+	<Row-0>
+		<gho_code></gho_code>
+		<gho_display></gho_display>
+		<gho_url></gho_url>
+		<publishstate_code></publishstate_code>
+		<publishstate_display></publishstate_display>
+		<publishstate_url></publishstate_url>
+		<year_code></year_code>
+		<year_display></year_display>
+		<numeric></numeric>
+		<low></low>
+		<high></high>
+	</Row-0>
+
+	<Row-1>
+		<gho_code></gho_code>
+		<gho_display></gho_display>
+		<gho_url></gho_url>
+		<publishstate_code></publishstate_code>
+		<publishstate_display></publishstate_display>
+		<publishstate_url></publishstate_url>
+		<year_code></year_code>
+		<year_display></year_display>
+		<numeric></numeric>
+		<low></low>
+		<high></high>
+	</Row-1>
+
+	<Row-2>
+		<gho_code></gho_code>
+		<gho_display></gho_display>
+		<gho_url></gho_url>
+		<publishstate_code></publishstate_code>
+		<publishstate_display></publishstate_display>
+		<publishstate_url></publishstate_url>
+		<year_code></year_code>
+		<year_display></year_display>
+		<numeric></numeric>
+		<low></low>
+		<high></high>
+	</Row-2>
+
+	<Row-3>
+		<gho_code></gho_code>
+		<gho_display></gho_display>
+		<gho_url></gho_url>
+		<publishstate_code></publishstate_code>
+		<publishstate_display></publishstate_display>
+		<publishstate_url></publishstate_url>
+		<year_code></year_code>
+		<year_display></year_display>
+		<numeric></numeric>
+		<low></low>
+		<high></high>
+	</Row-3>
+
+	<Row-4>
+		<gho_code></gho_code>
+		<gho_display></gho_display>
+		<gho_url></gho_url>
+		<publishstate_code></publishstate_code>
+		<publishstate_display></publishstate_display>
+		<publishstate_url></publishstate_url>
+		<year_code></year_code>
+		<year_display></year_display>
+		<numeric></numeric>
+		<low></low>
+		<high></high>
+	</Row-4>
+
+	<Row-5>
+		<gho_code></gho_code>
+		<gho_display></gho_display>
+		<gho_url></gho_url>
+		<publishstate_code></publishstate_code>
+		<publishstate_display></publishstate_display>
+		<publishstate_url></publishstate_url>
+		<year_code></year_code>
+		<year_display></year_display>
+		<numeric></numeric>
+		<low></low>
+		<high></high>
+	</Row-5>
+
+	<Row-6>
+		<gho_code></gho_code>
+		<gho_display></gho_display>
+		<gho_url></gho_url>
+		<publishstate_code></publishstate_code>
+		<publishstate_display></publishstate_display>
+		<publishstate_url></publishstate_url>
+		<year_code></year_code>
+		<year_display></year_display>
+		<numeric></numeric>
+		<low></low>
+		<high></high>
+	</Row-6>
+
+	<Row-7>
+		<gho_code></gho_code>
+		<gho_display></gho_display>
+		<gho_url></gho_url>
+		<publishstate_code></publishstate_code>
+		<publishstate_display></publishstate_display>
+		<publishstate_url></publishstate_url>
+		<year_code></year_code>
+		<year_display></year_display>
+		<numeric></numeric>
+		<low></low>
+		<high></high>
+	</Row-7>
+
+	<Row-8>
+		<gho_code></gho_code>
+		<gho_display></gho_display>
+		<gho_url></gho_url>
+		<publishstate_code></publishstate_code>
+		<publishstate_display></publishstate_display>
+		<publishstate_url></publishstate_url>
+		<year_code></year_code>
+		<year_display></year_display>
+		<numeric></numeric>
+		<low></low>
+		<high></high>
+	</Row-8>
+
+	<Row-9>
+		<gho_code></gho_code>
+		<gho_display></gho_display>
+		<gho_url></gho_url>
+		<publishstate_code></publishstate_code>
+		<publishstate_display></publishstate_display>
+		<publishstate_url></publishstate_url>
+		<year_code></year_code>
+		<year_display></year_display>
+		<numeric></numeric>
+		<low></low>
+		<high></high>
+	</Row-9>
+
+	<Row-10>
+		<gho_code></gho_code>
+		<gho_display></gho_display>
+		<gho_url></gho_url>
+		<publishstate_code></publishstate_code>
+		<publishstate_display></publishstate_display>
+		<publishstate_url></publishstate_url>
+		<year_code></year_code>
+		<year_display></year_display>
+		<numeric></numeric>
+		<low></low>
+		<high></high>
+	</Row-10>
