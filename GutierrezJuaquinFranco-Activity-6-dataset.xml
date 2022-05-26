@@ -14,9 +14,9 @@
 		<publishstate_url>No Data</publishstate_url>
 		<year_code>2011</year_code>
 		<year_display>2011</year_display>
-		<numeric></numeric>
-		<low></low>
-		<high></high>
+		<numeric>18.80000</numeric>
+		<low>No Data</low>
+		<high>No Data</high>
 	</Row-0>
 
 	<Row-1>
@@ -28,9 +28,9 @@
 		<publishstate_url>No Data</publishstate_url>
 		<year_code>2011</year_code>
 		<year_display>2011</year_display>
-		<numeric></numeric>
-		<low></low>
-		<high></high>
+		<numeric>9.30000</numeric>
+		<low>No Data</low>
+		<high>No Data</high>
 	</Row-1>
 
 	<Row-2>
@@ -42,9 +42,9 @@
 		<publishstate_url>No Data</publishstate_url>
 		<year_code>2007</year_code>
 		<year_display>2007</year_display>
-		<numeric></numeric>
-		<low></low>
-		<high></high>
+		<numeric>18.10000</numeric>
+		<low>No Data</low>
+		<high>No Data</high>
 	</Row-2>
 
 	<Row-3>
@@ -56,9 +56,9 @@
 		<publishstate_url>No Data</publishstate_url>
 		<year_code>2007</year_code>
 		<year_display>2007</year_display>
-		<numeric></numeric>
-		<low></low>
-		<high></high>
+		<numeric>28.30000</numeric>
+		<low>No Data</low>
+		<high>No Data</high>
 	</Row-3>
 
 	<Row-4>
@@ -84,9 +84,9 @@
 		<publishstate_url>No Data</publishstate_url>
 		<year_code>2004</year_code>
 		<year_display>2004</year_display>
-		<numeric></numeric>
-		<low></low>
-		<high></high>
+		<numeric>17.50000</numeric>
+		<low>No Data</low>
+		<high>No Data</high>
 	</Row-5>
 
 	<Row-6>
@@ -97,10 +97,10 @@
 		<publishstate_display>Published</publishstate_display>
 		<publishstate_url>No Data</publishstate_url>
 		<year_code>2003</year_code>
-		<year_display>2004</year_display>
-		<numeric></numeric>
-		<low></low>
-		<high></high>
+		<year_display>2003</year_display>
+		<numeric>21.40000</numeric>
+		<low>No Data</low>
+		<high>No Data</high>
 	</Row-6>
 
 	<Row-7>
@@ -112,9 +112,9 @@
 		<publishstate_url>No Data</publishstate_url>
 		<year_code>2003</year_code>
 		<year_display>2003</year_display>
-		<numeric></numeric>
-		<low></low>
-		<high></high>
+		<numeric>11.80000</numeric>
+		<low>No Data</low>
+		<high>No Data</high>
 	</Row-7>
 
 	<Row-8>
@@ -126,9 +126,9 @@
 		<publishstate_url>No Data</publishstate_url>
 		<year_code>2000</year_code>
 		<year_display>2000</year_display>
-		<numeric></numeric>
-		<low></low>
-		<high></high>
+		<numeric>30.60000</numeric>
+		<low>No Data</low>
+		<high>No Data</high>
 	</Row-8>
 
 	<Row-9>
@@ -140,9 +140,9 @@
 		<publishstate_url>No Data</publishstate_url>
 		<year_code>2000</year_code>
 		<year_display>2000</year_display>
-		<numeric></numeric>
-		<low></low>
-		<high></high>
+		<numeric>26.50000</numeric>
+		<low>No Data</low>
+		<high>No Data</high>
 	</Row-9>
 
 	<Row-10>
@@ -154,9 +154,9 @@
 		<publishstate_url>No Data</publishstate_url>
 		<year_code>2000</year_code>
 		<year_display>2000</year_display>
-		<numeric></numeric>
-		<low></low>
-		<high></high>
+		<numeric>13.00000</numeric>
+		<low>No Data</low>
+		<high>No Data</high>
 	</Row-10>
 
 </tobacco-indicators-for-philippines-9>
